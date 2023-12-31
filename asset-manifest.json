@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/receptuApp/static/css/main.2e6643ba.css",
+    "main.js": "/receptuApp/static/js/main.a5a08178.js",
+    "static/media/timer.svg": "/receptuApp/static/media/timer.f8abeb077285bbe2ee078877b3f81890.svg",
+    "static/media/plate.svg": "/receptuApp/static/media/plate.5d3f40aae96d2265584d4fbd5253b468.svg",
+    "static/media/logo.svg": "/receptuApp/static/media/logo.a7d8c3e445130cb964fdb27c20b04cab.svg",
+    "static/media/level.svg": "/receptuApp/static/media/level.d5a3447ce09425947bcab9b1bc364bba.svg",
+    "static/media/people.svg": "/receptuApp/static/media/people.56534e795855282f6dadf844fc108719.svg",
+    "index.html": "/receptuApp/index.html",
+    "main.2e6643ba.css.map": "/receptuApp/static/css/main.2e6643ba.css.map",
+    "main.a5a08178.js.map": "/receptuApp/static/js/main.a5a08178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6643ba.css",
+    "static/js/main.a5a08178.js"
+  ]
+}
